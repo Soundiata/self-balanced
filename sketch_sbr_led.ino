@@ -1,5 +1,4 @@
 /*
- *  Self Balanced Robot
  *  
  *  Manage the self-balanced Robot
  *   - Define PIN layout
@@ -22,6 +21,7 @@
 #include "Wire.h"
 #include <Adafruit_NeoPixel.h>
 #include <PID_v1.h>
+
 
 //Rotation direction of the motor
 #define CW 0
