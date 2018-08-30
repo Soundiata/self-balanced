@@ -1,0 +1,4 @@
+{
+    "sketch": "sketch_sbr_led.ino",
+    "board": "arduino:avr:uno"
+}
